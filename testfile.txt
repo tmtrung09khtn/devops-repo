@@ -1,1 +1,1 @@
-this is from branch-test
+This is content of test file on newFeature
